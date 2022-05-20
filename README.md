@@ -6,3 +6,5 @@ Let's improve what we have:
 - Use a `data` to get the AMI for the AutoScaling Group
 - Tag all the resources with the DateTime when they got created (Use Terraform locals)
 
+# project description
+Most of the changes is in /modules/vpc/main.tf
