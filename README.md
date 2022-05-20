@@ -7,4 +7,4 @@ Let's improve what we have:
 - Tag all the resources with the DateTime when they got created (Use Terraform locals)
 
 # project description
-Most of the changes are in /modules/vpc/main.tf, I was using data for ami in hw2 so there's no change here.
+Most of the changes are in /modules/vpc/main.tf. I already used `data` for ami in hw2 so there's no change here.
